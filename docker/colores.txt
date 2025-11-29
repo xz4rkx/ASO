@@ -1,0 +1,4 @@
+fondo=#222222
+parrafo=#ffcc00
+letra=#ffffff
+imagen=https://upload.wikipedia.org/wikipedia/commons/3/3f/Fronalpstock_big.jpg
